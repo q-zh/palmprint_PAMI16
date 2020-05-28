@@ -1,4 +1,4 @@
-A Matlab implementation of our paper "A 3D Feature Descriptor Recovered from a Single 2D Palmprint Image". <\br>
+A Matlab implementation of our paper "A 3D Feature Descriptor Recovered from a Single 2D Palmprint Image". <br>
 If you find the code is useful in your research, please cite our paper: <\br>
 @article{zheng20163d,<\br>
   title={A 3{D} Feature Descriptor Recovered from a Single 2{D} Palmprint Image},<\br><\br>
