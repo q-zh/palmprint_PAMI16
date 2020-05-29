@@ -3,14 +3,14 @@
 
 
 ```
-@article{zheng20163d,<br>
-  title={A 3{D} Feature Descriptor Recovered from a Single 2{D} Palmprint Image},<br>
-  author={Zheng, Qian and Kumar, Ajay and Pan, Gang},<br>
-  journal=PAMI,<br>
-  volume={38},<br>
-  number={6},<br>
-  pages={1272--1279},<br>
-  year={2016}<br>
+@article{zheng20163d,
+  title={A 3{D} Feature Descriptor Recovered from a Single 2{D} Palmprint Image},
+  author={Zheng, Qian and Kumar, Ajay and Pan, Gang},
+  journal=PAMI,
+  volume={38},
+  number={6},
+  pages={1272--1279},
+  year={2016}
 }<br>
 ```
 
